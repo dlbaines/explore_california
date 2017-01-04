@@ -11,7 +11,9 @@
 #git config --global core.excludesfile /Users/dlbaines/.gitignore_global
 #cat /Users/dlbaines/.gitconfig
 ##########
-
+#EMPTY DIRS
+#touch assets/pdfs/.gitkeep
+##########
 
 #text files
 tempfile.txt 
