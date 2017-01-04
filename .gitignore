@@ -15,6 +15,7 @@
 
 #text files
 tempfile.txt 
+tempfile2.txt
 
 #mac os files
 .DS_Store 
